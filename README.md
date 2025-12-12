@@ -32,36 +32,36 @@ Lo ejecutas
 
 | Binario | SUDO | SUID | FILEREAD/WRITE | SHELL |
 |---------|------|------|----------------|-------|
-|    7z     |      |      |                |       |
-|     find    |      |      |                |       |
-|    sed     |      |      |                |       |
-|   neofetch    |      |      |                |       |
-|   bash      |      |      |                |       |
-|    nft   |      |      |                |       |
-|    more    |      |      |                |       |
-|    logsave     |      |      |                |       |
-|     less    |      |      |                |       |
-|     man    |      |      |                |       |
-|     pg    |      |      |                |       |
-|    red     |      |      |                |       |
-|    script     |      |      |                |       |
-|   service      |      |      |                |       |
-|    ss     |      |      |                |       |
-|    systemctl     |      |      |                |       |
-|    tail     |      |      |                |       |
-|     task    |      |      |                |       |
-|    tbl     |      |      |                |       |
-|     tee    |      |      |                |       |
-|    uniq     |      |      |                |       |
-|    uuencode     |      |      |                |       |
-|    uudecode     |      |      |                |       |
-|    vi     |      |      |                |       |
-|         |      |      |                |       |
-|         |      |      |                |       |
-|         |      |      |                |       |
-|         |      |      |                |       |
-|         |      |      |                |       |
-|         |      |      |                |       |
+|    7z     |   ✅   |      |         ✅       |       |
+|     find    |   ✅   |  ✅    |      ✅          |   ✅    |
+|    sed     |   ✅   |   ✅   |       ✅         |    ✅   |
+|   neofetch    |   ✅   |      |      ✅          |   ✅   |
+|   bash      |    ✅  |   ✅   |      ✅          |   ✅    |
+|    nft   |   ✅   |  ✅    |      ✅          |       |
+|    more    |   ✅   |   ✅   |      ✅          |   ✅    |
+|    logsave     |  ✅    |✅|                |   ✅    |
+|     less    |   ✅   |   ✅   |        ✅        |    ✅   |
+|     man    |   ✅   |      |       ✅         |   ✅    |
+|     pg    |   ✅   |   ✅   |      ✅          |    ✅   |
+|    red     |  ✅    |      |        ✅        |       |
+|    script     |   ✅   |      |       ✅         |   ✅    |
+|   service      |    ✅  |      |                |    ✅   |
+|    ss     |  ✅    |   ✅   |        ✅        |       |
+|    systemctl     |  ✅    |   ✅   |                |       |
+|    tail     |  ✅    |      |       ✅         |   ✅    |
+|     task    |  ✅    |      |                |   ✅    |
+|    tbl     |  ✅    |   ✅   |      ✅          |       |
+|     tee    |   ✅   |   ✅   |       ✅         |       |
+|    uniq     |   ✅   |   ✅   |       ✅         |       |
+|    uuencode     |  ✅    |   ✅   |        ✅        |       |
+|    uudecode     |   ✅   |   ✅   |       ✅         |       |
+|    vi     |  ✅    |      |        ✅        |     ✅  |
+|   xargs    |   ✅   |   ✅   |       ✅         |   ✅    |
+|    xxd     |   ✅   |   ✅   |        ✅        |       |
+|    crash     |   ✅   |      |                |    ✅   |
+|   curl       |  ✅    |   ✅   |       ✅         |       |
+|   debugfs    |   ✅   |   ✅   |                |   ✅    |
+|    base64     |   ✅   |   ✅   |        ✅        |       |
 
 ## ⚠️ AVISO LEGAL 
 
