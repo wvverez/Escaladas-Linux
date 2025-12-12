@@ -57,7 +57,7 @@ Lo ejecutas
 |    uudecode     |   ✅   |   ✅   |       ✅         |    ❌   |
 |    vi     |  ✅    |   ❌   |        ✅        |     ✅  |
 |   xargs    |   ✅   |   ✅   |       ✅         |   ✅    |
-|    xxd     |   ✅   |   ✅   |        ✅        |       |
+|    xxd     |   ✅   |   ✅   |        ✅        |   ❌    |
 |    crash     |   ✅   |   ❌   |        ❌        |    ✅   |
 |   curl       |  ✅    |   ✅   |       ✅         |  ❌     |
 |   debugfs    |   ✅   |   ✅   |       ❌         |   ✅    |
