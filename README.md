@@ -1,6 +1,6 @@
 ## 🧙🏻‍♂️💖 BINSCRACK 
 
-BINSCRACK es un script en bash que almacena muchos de los binarios de GTFObins para poder escalar privilegios, aquí tendras los binarios mas comunes para poder abusar de ellos.
+BINSCRACK es un script en bash que almacena muchos de los binarios de GTFObins para poder escalar privilegios, aquí tendras los binarios mas comunes para poder abusar de ellos. Especialmente usados en CTFs de la plataforma THL.
 
 > [!WARNING]
 > Esta herramienta debe usarse solo para fines éticos, legales y responsables. El usuario es responsable del uso que haga de la herramienta. El creador no se hace responsable por un uso indebido o no autorizado.
