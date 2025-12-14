@@ -1,5 +1,19 @@
 ## 🧙🏻‍♂️💖 BINSCRACK 
 
+<img width="1792" height="671" alt="image" src="https://github.com/user-attachments/assets/94881b1f-d630-49e3-8a1d-8a0e446a70a1" />
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Version-1.0.0-green?style=for-the-badge">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Author-HTR--Tech-cyan?style=flat-square">
+  <img src="https://img.shields.io/badge/MADE%20IN-SPAIN-red?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
+  <img src="https://img.shields.io/badge/Written%20In-Bash-cyan?style=flat-square">
+</p>
+
+
+
 BINSCRACK es un script en bash que almacena muchos de los binarios de GTFObins para poder escalar privilegios, aquí tendras los binarios mas comunes para poder abusar de ellos. Especialmente usados en CTFs de la plataforma THL.
 
 > [!WARNING]
