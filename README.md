@@ -26,29 +26,25 @@ BINSCRACK es un script en bash que almacena muchos de los binarios de GTFObins p
 
 ## 🔑 INSTALACIÓN 
 
-Clonas el repo 
+# UBUNTU / DEBIAN 
 
 <pre>
     <code>
 git clone https://github.com/wvverez/Binscrack.git
-</code>
-</pre>
-
-Le otorgas permisos de ejecución 
-
-<pre>
-<code> 
 chmod +x binscrack.sh
-</code>
-</pre>
-
-Lo ejecutas 
-
-<pre>
-<code>
 ./binscrack.sh
 </code>
 </pre>
+
+# FEDORA / ARCH
+<pre>
+<code> 
+git clone https://github.com/wvverez/Binscrack.git
+chmod +x binscrack.sh
+./binscrack.sh
+</code>
+</pre>
+
 
 ## 🏹 BINARIOS 
 
