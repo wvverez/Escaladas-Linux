@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Author-Wvverez-cyan?style=flat-square">
+  <img src="https://img.shields.io/badge/Creador-Wvverez-cyan?style=flat-square">
   <img src="https://img.shields.io/badge/MADE%20IN-SPAIN-red?colorA=%23aa151b&colorB=%23f1bf00&style=flat-square">
   <img src="https://img.shields.io/badge/Written%20In-Bash-cyan?style=flat-square">
 </p>
