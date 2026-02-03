@@ -6,6 +6,11 @@ AMARILLO='\033[1;33m'
 AZUL='\033[0;34m'
 NC='\033[0m'
 
+cleanup() {
+  echo -e "${ROJO}[*] Abandonando el script...${NC}"
+  exit 1
+trap cleanup SIGINT
+
 BASE_URL_GTFO="https://gtfobins.github.io/gtfobins/"
 EXCLUDED_SUID_BINARIES="passwd sudo su chsh chfn gpasswd newgrp mount"
 
