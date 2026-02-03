@@ -32,7 +32,7 @@ echo -e "${ROJO}
 
 
 echo -e "${ROJO}---------------------------------------------${NC}"
-echo -e "${ROJO}[*] Creador: Wvverez, JV${NC}"
+echo -e "${ROJO}[*] Creadores: Wvverez, JV${NC}"
 echo -e "${ROJO}[*] https://github.com/wvverez${NC}"
 echo -e "${ROJO}[*] Analisis SUID en SO Linux${NC}"
 echo -e "${ROJO}---------------------------------------------${NC}"
