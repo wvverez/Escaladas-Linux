@@ -28,9 +28,7 @@ echo -e "${ROJO}
                                                             
                                                             ${NC}"
                                                       
-                                                      
-
-
+                                                    
 echo -e "${ROJO}---------------------------------------------${NC}"
 echo -e "${ROJO}[*] Creadores: Wvverez, JV${NC}"
 echo -e "${ROJO}[*] https://github.com/wvverez${NC}"
