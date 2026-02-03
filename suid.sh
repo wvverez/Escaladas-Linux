@@ -9,6 +9,7 @@ NC='\033[0m'
 cleanup() {
   echo -e "${ROJO}[*] Abandonando el script...${NC}"
   exit 1
+}
 trap cleanup SIGINT
 
 BASE_URL_GTFO="https://gtfobins.github.io/gtfobins/"
