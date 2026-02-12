@@ -27,7 +27,7 @@ echo -e "${ROJO}
                                                                                   
                                                                                   ${NC}"
 echo -e "${ROJO}---------------------------------------------${NC}"
-echo -e "${ROJO}[*] Creador: Wvverez, JV${NC}"
+echo -e "${ROJO}[*] Creador: @Wvverez, @JVJIXFMCQ=${NC}"
 echo -e "${ROJO}[*] https://github.com/wvverez${NC}"
 echo -e "${ROJO}[*] Análisis de permisos sudoers en SO Linux${NC}"
 echo -e "${ROJO}---------------------------------------------${NC}"
