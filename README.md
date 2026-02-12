@@ -38,6 +38,27 @@ Este script contiene algunos sencillos parámetros para la búsqueda y movimient
 
 `&` : Para mostrar las formas de abusar de el binario seleccionado
 
+## Requerimientos Binscrack
+
+Este script requiere de tener instaladas algunas dependencias para su instalación, al igual que necesita de acceso a internet para permitir la conexión con la API de GTFObins.
+
+Herramientas necesarias:
+
+- ping
+- curl
+- jq
+- tput
+
+En caso de no tener estas dependencias instaladas podrás instalarlas a partir de este comando:
+
+<pre>
+  <code>
+    sudo apt update && sudo apt install curl jq iputils-ping ncurses
+  </code>
+</pre>
+
+Una vez instaladas las dependencias necesarias podrás ejecutar el script. Muchas de estas herramientas vienen preinstaladas en múltiples distribuciones.
+
 
 > [!WARNING]
 > Estas herramientas deben usarse solo para fines éticos, legales y responsables. El usuario es responsable del uso que haga de la herramienta. Los creadores no se hace responsable por un uso indebido o no autorizado.
