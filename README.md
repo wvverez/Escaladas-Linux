@@ -33,6 +33,7 @@
 Este script contiene algunos sencillos parámetros para la búsqueda y movimiento.
 
 `$ o Cntrl + C` : Abandonar el script.
+
 `&` : Para mostrar las formas de abusar de el binario seleccionado
 
 
