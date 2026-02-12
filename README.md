@@ -99,6 +99,46 @@ Para instalar estas dependencias en sistemas (Debian/Ubuntu).
   </code>
 </pre>
 
+# SUID GTFO
+
+Suid GTFO es un sencillo script en bash algo diferente a los anteriores ya que no proporciona por terminal los outputs si no que genera enlaces a la página oficial de GTFObins. Para poder abusar de estos binarios.
+
+## Funcionamiento Suid Gtfo
+
+<img width="862" height="630" alt="image" src="https://github.com/user-attachments/assets/faf74f2d-c042-4722-9fe7-16be23fcc06e" />
+
+## Requerimientos Suid Gtfo
+
+- curl
+
+Para instalar las dependencias en sistemas (Debian/Ubuntu).
+
+<pre>
+<code>
+  sudo apt update && sudo apt install curl
+</code>
+</pre>
+
+# Sudoers GTFO
+
+Sudoers GTFO es un sencillo script en bash que nos proporciona los enlaces pero basandose en los permisos sudoers encontrados. Una versión como Suid GTFO pero en permisos sudoers.
+
+## Funcionamiento Sudoers Gtfo
+
+<img width="888" height="581" alt="image" src="https://github.com/user-attachments/assets/717f72d2-1a29-4b45-9bdd-c361f7394239" />
+
+# Requerimientos Sudoers Gtfo
+
+- curl
+
+Para instalar las dependencias en sistemas (Debian/Ubuntu).
+
+<pre>
+<code>
+  sudo apt update && sudo apt install curl
+</code>
+</pre>
+
 
 > [!WARNING]
 > Estas herramientas deben usarse solo para fines éticos, legales y responsables. El usuario es responsable del uso que haga de la herramienta. Los creadores no se hace responsable por un uso indebido o no autorizado.
