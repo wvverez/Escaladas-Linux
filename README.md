@@ -14,7 +14,7 @@
 
 
 > [!WARNING]
-> Esta herramienta debe usarse solo para fines éticos, legales y responsables. El usuario es responsable del uso que haga de la herramienta. El creador no se hace responsable por un uso indebido o no autorizado.
+> Estas herramientas deben usarse solo para fines éticos, legales y responsables. El usuario es responsable del uso que haga de la herramienta. El creador no se hace responsable por un uso indebido o no autorizado.
 
 
 
