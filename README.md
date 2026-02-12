@@ -19,6 +19,12 @@
   - [Requerimientos](#Requerimientos-Klesh)
 
 - [♐️ SUID GTFO](#SUID-GTFO)
+  - [Funcionamiento](#Funcionamiento-Suid-Gtfo)
+  - [Requerimientos](#Requerimientos-Suid-Gtfo)
+
+- [🛡️SUDOERS](#Sudoers-GTFO)
+  - [Funcionamientos](#Funcionamiento-Sudoers-Gtfo)
+  - [Requerimientos](#Requerimientos-Sudoers-Gtfo)
 
 # Binscrack 
 
@@ -133,7 +139,7 @@ Sudoers GTFO es un sencillo script en bash que nos proporciona los enlaces pero 
 
 <img width="888" height="581" alt="image" src="https://github.com/user-attachments/assets/717f72d2-1a29-4b45-9bdd-c361f7394239" />
 
-# Requerimientos Sudoers Gtfo
+## Requerimientos Sudoers Gtfo
 
 - curl
 
