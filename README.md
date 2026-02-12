@@ -13,18 +13,18 @@
 
 # Binscrack 
 
-´Binscrack´ es un sencillo script en bash que permite buscar binarios registrados en la plataforma GTFObins y poder buscar, copiar o ejecutar como se puede abusar de estos binarios. Algunos de los parámetros que puede filtrar este script para abusar de los binarios son: 
+`Binscrack` es un sencillo script en bash que permite buscar binarios registrados en la plataforma GTFObins y poder buscar, copiar o ejecutar como se puede abusar de estos binarios. Algunos de los parámetros que puede filtrar este script para abusar de los binarios son: 
 
-- ´Sudoers´ 
-- ´SUID´
-- ´File-Read´
-- ´File-Write´
-- ´Capabilities´
-- ´Library Load´
-- ´Reverse shell´
-- ´Upload´
-- ´Download´
-- ´Command´
+- `Sudoers`
+- `SUID`
+- `File-Read`
+- `File-Write`
+- `Capabilities`
+- `Library Load`
+- `Reverse shell`
+- `Upload`
+- `Download`
+- `Command`
 
 ## Funcionamiento:
 
@@ -32,8 +32,8 @@
 
 Este script contiene algunos sencillos parámetros para la búsqueda y movimiento.
 
-´$ o Cntrl + C´ : Abandonar el script.
-´&´ : Para mostrar las formas de abusar de el binario seleccionado
+`$ o Cntrl + C` : Abandonar el script.
+`&` : Para mostrar las formas de abusar de el binario seleccionado
 
 
 > [!WARNING]
