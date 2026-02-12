@@ -1,4 +1,4 @@
-# 🧙🏻‍♂️💖 BINSCRACK 
+# 🧙🏻‍♂️💖 Escaladas en Linux
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-1.2.0-green?style=for-the-badge">
