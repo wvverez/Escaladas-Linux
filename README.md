@@ -14,7 +14,7 @@
   - [Funcionamiento](#Funcionamiento-Binscrack)
   - [Requerimientos](#Requerimientos-Binscrack)
 
-# Binscrack 
+# 👉🏻 Binscrack 
 
 `Binscrack` es un sencillo script en bash que permite buscar binarios registrados en la plataforma GTFObins y poder buscar, copiar o ejecutar como se puede abusar de estos binarios. Algunos de los parámetros que puede filtrar este script para abusar de los binarios son: 
 
@@ -29,7 +29,7 @@
 - `Download`
 - `Command`
 
-## Funcionamiento Binscrack
+## 🫆 Funcionamiento Binscrack
 
 ![ezgif-6fa8bb305a905f04](https://github.com/user-attachments/assets/3d620564-fc22-4e7c-94ec-56755140d31a)
 
@@ -39,7 +39,7 @@ Este script contiene algunos sencillos parámetros para la búsqueda y movimient
 
 `&` : Para mostrar las formas de abusar de el binario seleccionado
 
-## Requerimientos Binscrack
+## 📦 Requerimientos Binscrack
 
 Este script requiere de tener instaladas algunas dependencias para su instalación, al igual que necesita de acceso a internet para permitir la conexión con la API de GTFObins.
 
