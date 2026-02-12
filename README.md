@@ -74,34 +74,34 @@ Una vez instaladas las dependencias necesarias podrás ejecutar el script. Mucha
 
 # Klesh
 
-Klesh es un sencillo script en bash que permite enumerar permisos sudoers, SUID, capabilities, una vez ganas acceso al sistema, Enumerar versiones de Kernel vulnerables, Si tiene enlazado al /dev/null el bash history, Analisis de spoofing en el sistema, Analisis de logs en el sistema.
+Klesh es un sencillo script en bash que permite enumerar permisos `sudoers`, `SUID`, `capabilities` una vez ganas acceso al sistema, Enumerar versiones de Kernel vulnerables, Si tiene enlazado al /dev/null el bash history, Analisis de spoofing en el sistema, Analisis de logs en el sistema.
 
 
 ## Funcionamiento Klesh
 
 <img width="1012" height="594" alt="image" src="https://github.com/user-attachments/assets/e9fdf32f-c36e-48c2-b590-36c25036a947" />
 
--p : Análisis de acceso al bash history
+`-p` : Análisis de acceso al bash history
 
--a : Analisis de capabilities, Sudoers, SUID
+`-a` : Analisis de capabilities, Sudoers, SUID
 
--s: Analisis de spoofing en el sistema.
+`-s`: Analisis de spoofing en el sistema.
 
---log: Analisis de logs en el sistema.
+`--log`: Analisis de logs en el sistema.
 
---kernel: Analisis de versión de Kernel 
+`--kernel`: Analisis de versión de Kernel 
 
 ## Requerimientos Klesh
 
-- wc
-- head y tail
-- cut
-- readlink
-- uname
-- arp
-- tcpdump
-- getcap
-- timeout
+- `wc`
+- `head y tail`
+- `cut`
+- `readlink`
+- `uname`
+- `arp`
+- `tcpdump`
+- `getcap`
+- `timeout`
 
 Para instalar estas dependencias en sistemas (Debian/Ubuntu).
 
@@ -121,7 +121,7 @@ Suid GTFO es un sencillo script en bash algo diferente a los anteriores ya que n
 
 ## Requerimientos Suid Gtfo
 
-- curl
+- `curl`
 
 Para instalar las dependencias en sistemas (Debian/Ubuntu).
 
@@ -141,7 +141,7 @@ Sudoers GTFO es un sencillo script en bash que nos proporciona los enlaces pero 
 
 ## Requerimientos Sudoers Gtfo
 
-- curl
+- `curl`
 
 Para instalar las dependencias en sistemas (Debian/Ubuntu).
 
