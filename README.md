@@ -12,6 +12,7 @@
 
 - [🌟 Binscrack](#Binscrack)
   - [Funcionamiento](#Funcionamiento-Binscrack)
+  - [Requerimientos](#Requerimientos-Binscrack)
 
 # Binscrack 
 
