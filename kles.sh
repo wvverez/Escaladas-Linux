@@ -27,7 +27,7 @@ echo -e "${RED}
                                     ${RESET}"
 
 echo -e "${RED}-----------------------------------------------------${RESET}"
-echo -e "${RED}[*] Creadores: Wvverez & JV${RESET}"
+echo -e "${RED}[*] Creadores: @Wvverez & @JVJIXFMCQ=${RESET}"
 echo -e "${RED}[*] https://github.com/wvverez${RESET}"
 echo -e "${RED}[*] Kles para Escalar privilegios en SO Linux${RESET}"
 echo -e "${RED}-----------------------------------------------------${RESET}"
