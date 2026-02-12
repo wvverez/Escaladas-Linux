@@ -11,6 +11,7 @@
 </p>
 
 - [🌟 Binscrack](#Binscrack)
+  - [Funcionamiento](#Funcionamiento-Binscrack)
 
 # Binscrack 
 
@@ -27,7 +28,7 @@
 - `Download`
 - `Command`
 
-## Funcionamiento:
+## Funcionamiento Binscrack
 
 ![ezgif-6fa8bb305a905f04](https://github.com/user-attachments/assets/3d620564-fc22-4e7c-94ec-56755140d31a)
 
