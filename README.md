@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/badge/Written%20In-Bash-cyan?style=flat-square">
 </p>
 
+- [🌟 Binscrack](#Binscrack)
 
 # Binscrack 
 
